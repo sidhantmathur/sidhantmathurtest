@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello, my name is Sidhant. I am an Entreprenuership Student at the University of Texas at Dallas with a passion for web development. 
 
-### More Information
+I enjoy playing basketball, reading on various topics, and learning. 
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Some of my favourite books include: 
+- Mortal Questions - Thomas Nagel
+- Against Empathy - Paul Bloom
+- Catch-22 - Joseph Heller
+- Zero to One - Peter Theil
+- The Road - Cormac McCarthy
+- Englightenment Now! - Steven Pinker

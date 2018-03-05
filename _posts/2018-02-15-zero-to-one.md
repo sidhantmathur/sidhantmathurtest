@@ -4,6 +4,7 @@ title:  "Zero to One"
 date:   2018-02-15 20:13:00 -0600
 categories: books
 ---
+## This is not complete, it is just an example of a blog post in creation.
 
 ***Zero to One*** - *Notes on Startups, or How to Build the Future* is a book based on the lectures of Peter Theil and the notes of Blake Masters. The [original notes](http://blakemasters.com/peter-thiels-cs183-startup) are almost legendary among certain groups, and the book is a curated collection of those notes.  
 

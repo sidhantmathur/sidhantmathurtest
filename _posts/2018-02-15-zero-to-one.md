@@ -35,11 +35,11 @@ I was talking to a friend about this and he seemed to be skeptical of most of th
 
 To these I'd probably say: 
 
-- It's rare to be able to plan *so* badly that no planning is superior. A plan would improve you in a particular direction which no plan would not. It's the difference between a specialist and a generalist. 
+- It's rare to be able to plan *so* badly that no planning is superior. A plan would at least improve your business and move it in a particular direction whereas no plan would improve you nowhere in particular. It's not the difference between a specialist and generalist, it's more like the difference between having goals and messing around. 
 
-- A competitive market is good for consumers in that you get the cheapest prices, but R&D cannot be done without excess profits. Improvement isn't done with zero excess money. Ultimately you want companies to spend a lot on R&D so that you can have better products over time, not just the cheapest products. 
+- A competitive market is good for consumers in that you get the cheapest prices, but R&D cannot be done without profits. Improvement can't be done without investment. Ultimately you want companies to spend a lot on R&D so that you can have better products over time, not just the cheapest products right now. 
 
-- You need both sales and product but some people will buy a bad product if the sales are great. If you have the greatest product in the world but nobody knows about it, it's irrelevant. 
+- You need both sales and product but some people will buy a bad product if the sales strategy is great. If you have the greatest product in the world but nobody knows about it, it's irrelevant. 
 
 I would say however that these two lists aren't mutually exclusive, all of the points must be judged by the specific context in which they take place. Some companies really have a bad product and great sales, so they should actually focus on product. Some companies are too rigid and overly planned, not responding to consumer demand and market changes. Any list that claims to have the be all, end all truth is wrongheaded at best. 
 
@@ -59,7 +59,7 @@ You have to find your place within these dichotomies:
 
 Theil starts the chapter criticizing the hyper-successful who ascribe their considerable wealth and success to pure luck or being in the right place at the right time. He notably brings up the fact that there are people who have created multiple *billion* - dollar companies which seems to fly in the face of the idea that every huge company is a lucky one hit wonder. 
 
-Most entrepreneurs seem to reject this framing. Almost every guest on podcasts such as ["How I Built This"](https://www.npr.org/podcasts/510313/how-i-built-this) say that their success is mostly luck based and being in the right place at the right time. The book quotes Bill Gates, Jeff Bezos and the like saying talking about their abundant luck. Theil thinks that this is a sort of strategic modesty. I think it's not only that, but also that people may not realize how *weird* they really are. Oftentimes when narrating their journey, entrepreneurs always seem to get into situations which a normal person wouldn't, or take risks that a normal person wouldn't. 
+Most entrepreneurs seem to reject this framing. Almost every guest on podcasts such as ["How I Built This"](https://www.npr.org/podcasts/510313/how-i-built-this) say that their success is mostly luck based and being in the right place at the right time. The book quotes Bill Gates, Jeff Bezos and the like talking about their abundant luck. Theil thinks that this is a sort of strategic modesty. I think it's not only that, but also that people may not realize how *weird* they really are. Oftentimes when narrating their journey, great entrepreneurs seem to get into situations which a normal person wouldn't, or take risks that a normal person wouldn't. 
 
 In addition to that, they all seem to work inhumanly hard and are extremely intelligent. Michael Dell talked about making hundreds of thousands in sales out of a dorm room basically, but unlike a typical college student who would be incredibly satisfied with that, he continued pushing and trying to compete with bigger and bigger companies. Can you imagine many undergrads deciding to work *harder* after casually getting $600,000 in sales from their dorm room business? 
 
@@ -117,7 +117,7 @@ Engineers have always seemed to have the upper hand in the "who is more useful" 
 
 **The bottom line is; a  product that sells itself is a fantasy.**
 
-This is definitely a lesson for a lot of professionals. The lawyer that gets paid the most in the firm isn't the best lawyer in the courthouse; he's the rainmaker out there getting clients for the firm. The richest businessmen aren't the CTOs, they're the CEOs. The most powerful political actors aren't *policy* geniuses, they're *political* geniuses. In order to do anything; the "engineering" is expected, the sales is where the greatness comes in. Nikola Tesla was probably a much better engineer and inventor than Thomas Edison, yet he's not nearly as well known (before Elon Musk's *Tesla* that is), and he didn't make his mark on the world like Edison did. This is the prime example of the pure engineer against the engineer + salesman. 
+This is definitely a lesson for a lot of professionals. The lawyer that gets paid the most in the firm isn't the best lawyer in the courthouse; he's the rainmaker out there getting clients for the firm. The richest businessmen aren't the CTOs, they're the CEOs. The most powerful political actors aren't *policy* geniuses, they're *political* geniuses. In order to do anything; the "engineering" is expected, the sales is where the greatness comes in. Nikola Tesla was probably a much better engineer and inventor than Thomas Edison, yet he's not nearly as well known (before Elon Musk's *Tesla* that is), and he wasn't remembered like Edison was. This is the prototypical case of the pure engineer against the 1/2 engineer, 1/2 salesman. 
 
 ## Conclusion
 

@@ -31,13 +31,13 @@ Theil argues that all of these ideas are mistaken, and will just lead to mediocr
 3. Competitive markets destroy profits
 4. Sales matters just as much as product
 
-I was talking to a friend about this and he seemed to be skeptical of most of these points. Perhaps a plan can be worse than no plan. Competition breeds improvement. If you don't focus on your product you won't get sales. 
+I was talking to a friend about this and he seemed to be skeptical of most of these points. Perhaps a really bad plan can be worse than no plan. Competition breeds improvement. If you don't focus on your product you won't get sales. 
 
 To these I'd probably say: 
 
-- It's rare to be able to plan *so* badly that no planning is superior. A plan would at least improve your business and move it in a particular direction whereas no plan would improve you nowhere in particular. It's not the difference between a specialist and generalist, it's more like the difference between having goals and messing around. 
+- It's rare to be able to plan *so* badly that no plan is superior. A plan would at the very least improve your business and move it in a particular direction whereas no plan would improve you nowhere in particular. It's not the difference between a specialist and generalist, it's more like the difference between having goals and messing around. 
 
-- A competitive market is good for consumers in that you get the cheapest prices, but R&D cannot be done without profits. Improvement can't be done without investment. Ultimately you want companies to spend a lot on R&D so that you can have better products over time, not just the cheapest products right now. 
+- A competitive market is good for consumers in that you get the cheapest prices, but R&D cannot be done without profits. Improvements can't be made without investment. Ultimately you want companies to spend a lot on R&D so that you can have better products over time, not just the cheapest products right now. 
 
 - You need both sales and product but some people will buy a bad product if the sales strategy is great. If you have the greatest product in the world but nobody knows about it, it's irrelevant. 
 
@@ -99,7 +99,7 @@ Europe, on the other hand, is pessimistic about the future; it's in decline, but
 
 China, Theil argues, is a pessimistic society but with defined plans. They know they can copy the Western model to great success and will continuously copy until they catch up. Theil writes "Every other country is afraid that China is going to take over the world; China is the only country afraid that it won't." 
 
-What's interesting about this is the place Japan has occupied in this. This wasn't discussed in the book but in a talk given later. Theil said that Japan used to occupy this position; they relentlessly copied the United States in every facet. Japan took denim, technology, manufacturing from the USA and the West. Now, however, Japan seems completely uninterested in the USA. Japanese denim is the best in the world. Japanese technology is very different than American, same with cars, programming, and television. Golf used to be widely popular in the 80s in Japan, now the courses are being turned into solar farms. Theil thinks that this is a somewhat disturbing sign of the stagnation of the West. We used to think that it was alright for Japan to copy us because while they were busy copying, we'd be moving on to the next thing. Now, however, they've caught up and found nothing more that we provide. The Western world is no longer far ahead of anyone. 
+What's interesting is Japan's place in this. Theil said that Japan used to occupy this position; they relentlessly copied the United States in every facet. Japan took denim, technology, manufacturing from the USA and the West. Now, however, Japan seems completely uninterested in the USA. Japanese denim is the best in the world. Japanese technology is very different than American, same with cars, programming, and television. Golf used to be hugely popular in the 80s in Japan, now the golf courses are being turned into solar farms. Theil thinks that this is a disturbing sign of the stagnation of the West. We used to think that it was OK for Japan to copy us because while they were busy copying, we'd be moving on to the next thing. Now, however, they've caught up, and they've found nothing more that we provide. The Western world is no longer far ahead. 
 
 ![SpaceX](https://images.pexels.com/photos/60132/pexels-photo-60132.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb)
 

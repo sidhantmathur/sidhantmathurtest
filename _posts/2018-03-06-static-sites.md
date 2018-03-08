@@ -7,6 +7,8 @@ categories: web dev
 
 ***Static Website Generators*** are an increasingly popular tool for web development. Many developers including myself find static site generators to be incredibly convenient and powerful tools; this very blog was made with a static site generator. Why exactly is this a trend? Let's get into it. 
 
+![Dynamic vs Static](https://images.pexels.com/photos/37323/goats-competition-dispute.jpg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb)
+
 # Dynamic vs. Static Websites
 
 Most websites with interactive or user added content (like comments or posts) have a server (with an appropriate OS), database, backend routing, plugins and more. Furthermore when there is a CMS (Content Management System: Wordpress, Drupal) involved (as it typically is for clients) then there's CMS specific themes, plugins, and the CMS application itself. Now *that* is a ton of stuff. 
@@ -38,15 +40,19 @@ Speed is a critical measure for websites; [53% of mobile users abandon a website
 
 [You can use this calculator to see what effect your slower page speeds are having.](https://www.doubleclickbygoogle.com/articles/mobile-speed-adds-up/) 
 
+![Server Strain](https://images.pexels.com/photos/17840/pexels-photo.jpg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb)
+
 ### Why are Static Websites Faster? 
 
 Static websites improve speed and alleviate servers because they are so incredibly small causing the strain per "serve" to a user to be reduced. Also, static websites have fewer files, in general, causing it to have a faster load as well: 5000 files together taking up 1 GB of space take more time to download than one large file that takes up 1 GB of space. The reason for this is because the server and your computer have to make a sort of "handshake" for every individual file slowing down the entire process. Backend frameworks tend to have a ***lot*** of files, especially in heavyweight or slower frameworks like Ruby on Rails. 
 
-The reduced space in conjunction with fewer files allows the server to spend a ton fewer resources: less CPU strain because of less file processing, and less RAM usage because the file size for the concurrently running websites is smaller. For example, using a static website generator means that 1 GB of RAM can run maybe 500 of your websites vs 50 with a typical dynamic site and the CPU isn't straining to make a billion handshakes because all it has to do is load 5-10 files instead of 50-100. So you can have 10 times the users with the same server space, and those users will receive their content much faster because the CPU on the server isn't strained at all. 
+A **simplified** way to think about this: the reduced space in conjunction with fewer files allows the server to spend a ton fewer resources: less CPU strain because of less file processing, and less RAM usage because the file size for the concurrently running websites is smaller. For example, using a static website generator means that 1 GB of RAM can run maybe 500 of your websites vs 50 with a typical dynamic site and the CPU isn't straining to make a billion handshakes because all it has to do is load 5-10 files instead of 50-100. So you can have 10 times the users with the same server space, and those users will receive their content much faster because the CPU on the server isn't strained at all. 
 
 # Security
 
 CMSs are both finicky and vulnerable. Avoiding them will prevent common exploits from affecting your website. It's been estimated that [almost 70% of Wordpress websites are vulnerable to very common exploits and hacks](https://www.wpwhitesecurity.com/wordpress-security-news-updates/statistics-70-percent-wordpress-installations-vulnerable/). This isn't a thing that is easily mitigated either: [even the most powerful people in the world are vulnerable to this.](https://www.theregister.co.uk/2016/04/07/panama_papers_unpatched_wordpress_drupal/) This is the nature of having a visible backend or CMS; people can easily identify and exploit it.  With a static website, you get around this because you often don't even ***have*** a backend to exploit. Even if you do have a very simple backend, hackers won't be able to know which backend framework or language you're using which makes the entire process much more difficult for them. 
+
+![Moving Parts](https://images.pexels.com/photos/414579/pexels-photo-414579.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb)
 
 # Reliability
 
@@ -68,15 +74,15 @@ More than that, there are backups to all changes, so you can easily revert to an
 
 # Conclusion
 
-It's clear from what I've written, I like static site generators. An ordered list of the reasons are: 
+It's clear from what I've written, I like static site generators. In descending order, I like: 
 
-1. Cheap and Easy on Servers
+1. Cheap and Lightweight on Servers
 2. Secure
 3. Fast
-4. Convenient
+4. Convenient to Use
 5. Version Control
 6. Near Feature Parity
 
-I think that most businesses can move towards a static website with no real ill effects. Most major features can be outsourced to another website or plugin that handles it. Statically generated websites are good enough for heavy duty things like [the Obama campaign](http://kylerush.net/blog/meet-the-obama-campaigns-250-million-fundraising-platform/) and the [new Healthcare.gov](https://developmentseed.org/blog/new-healthcare-gov-is-open-and-cms-free/), and they're convenient enough for small blogs like this one to use. 
+I think that most businesses can move towards a static website with no real ill effects. Most major features can be outsourced to another website or plugin that handles it. Statically generated websites are good enough for heavy duty things like [the Obama campaign](http://kylerush.net/blog/meet-the-obama-campaigns-250-million-fundraising-platform/), [Github Services](https://services.github.com/), [the Ruby on Rails blog](https://services.github.com/), [the new Healthcare.gov](https://developmentseed.org/blog/new-healthcare-gov-is-open-and-cms-free/), ([and more!](http://planetjekyll.github.io/showcase/)) and they're convenient enough for small blogs like this one to use. 
 
-Static website generators are the future, and we should be happy about it; who doesn't want a faster and lighter-weight internet experience?  
+Static website generators are the future, and we should be happy about it; who doesn't want a faster and lighter-weight web experience?  

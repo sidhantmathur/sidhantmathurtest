@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Zero to One"
-date:   2018-03-5 20:00:00 -0600
+date:   2018-02-15 20:00:00 -0600
 categories: books
 ---
 
@@ -45,13 +45,13 @@ I would say however that these two lists aren't mutually exclusive, all of the p
 
 You have to find your place within these dichotomies: 
 
-***Incrementalism vs Boldness***
+***Incrementalism vs. Boldness***
 
-***Leanness vs Planning***
+***Leanness vs. Planning***
 
-***Competition vs Monopolization***
+***Competition vs. Monopolization***
 
-***Product vs Sales***
+***Product vs. Sales***
 
 # You Are Not a Lottery Ticket 
 
@@ -65,15 +65,15 @@ In addition to that, they all seem to work inhumanly hard and are extremely inte
 
 Jim Koch of Samuel Adams quit his lucrative consulting job at BCG to start a company in a seemingly dead industry. American beer went from being a joke to probably the best in the world when it comes to craft beer. The founders of Airbnb created hugely successful presidential election cereal on a whim. These aren't the actions or achievements of normal people. Obviously, the market conditions and lifestyles of all these entrepreneurs was perfect for what they wanted to do, but that's discounting their own very real talent of being able to take advantage of those opportunities at all. 
 
-Moving past the discussion of luck, the book takes a philosophical turn into a discussion of free will and our loci of control. Theil argues that thinking of yourself as a lottery ticket and just hoping that you are the one in a million who will create something transcendent, you actually have to believe it and go try to make it happen. Often people are fatalist when it comes to their own success. They hear Bill Gates say that he was just lucky, and they hope they get lucky too. 
+Moving past the discussion of luck, the book takes a philosophical turn into a discussion of free will and our loci of control. Theil argues that instead of thinking of yourself as a lottery ticket and just hoping that you are the one in a million who will create something transcendent, you actually have to believe it and go try to make it happen. Far too often people are fatalistic when it comes to their own success; they hear Bill Gates say that he was just lucky, and they hope they get lucky too. 
 
- I reached a similar conclusion to on my own; whether or not we **ultimately** live in a predetermined universe is irrelevant; *acting* that you don't will make you much more successful in your endeavors. 
+I reached a similar conclusion on my own; whether or not we **ultimately** live in a predetermined universe is irrelevant; *acting* as if you don't will make you much more successful in your endeavors. 
 
-  [![dan dennett](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Daniel_dennett_Oct2008.JPG/1280px-Daniel_dennett_Oct2008.JPG)](http://thesciencenetwork.org/programs/beyond-belief-enlightenment-2-0/daniel-dennett)
+[![dan dennett](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Daniel_dennett_Oct2008.JPG/1280px-Daniel_dennett_Oct2008.JPG)](http://thesciencenetwork.org/programs/beyond-belief-enlightenment-2-0/daniel-dennett)
  
- The philosopher Daniel Dennett brought this up in [one of his talks (5:30)](http://thesciencenetwork.org/programs/beyond-belief-enlightenment-2-0/daniel-dennett): which would you prefer to have as an army; 1000 fundamentalists who are willing to die for this battle, or 1000 economists looking over their life insurance policies? Even if the economists have a more accurate worldview, they still wouldn't be as successful as the fundamentalists. Dan goes on further to say that the fundamentalists pay the hidden cost of dishonesty, but we don't have to in our case, we can accept whatever we believe is reality while living life a different way. Effectively we can have our cake and eat it too. This hints at a more complicated problem, however; how do you know if you are the lone genius or the lone lunatic? 
+The philosopher Daniel Dennett brought this up in [one of his talks (5:30)](http://thesciencenetwork.org/programs/beyond-belief-enlightenment-2-0/daniel-dennett): which would you prefer to have as an army (assuming equal training and equipment); 1000 fundamentalists who are willing to die for this battle, or 1000 economists looking over their life insurance policies? Even if the economists have a more accurate worldview, they still wouldn't be as successful as the fundamentalists. Dan goes on further to say that the fundamentalists pay the hidden cost of dishonesty, but we don't have to in our case, we can accept our evidence backed (or not!) beliefs of reality while living life a different way. Effectively we can have our cake and eat it too. This hints at a more complicated problem, however; how do you know if you are the lone genius or the lone lunatic? 
 
- I think that ultimately you can't know. A true lunatic will never know that they are a lunatic, and this is why it will always be safer to not go down the uncharted road. However, if nobody ever took a risk where would we be? Even if you don't ultimately believe it, living your life as if you have 100% control over **everything** that happens, and you'll make a much bigger impact on your circumstances than you may think. Being screwed over by a person who has power over you may be something that seemed completely out of your control, but if you live your life as if you *could've* prevented it, then in the future you'll be able to identify the superiors who would do you harm, and find a way to lessen or neutralize their influence over you. 
+I think that ultimately you can't know. A true lunatic will never know that they are a lunatic, and this is why it will always be safer not to go down the uncharted road. However, if nobody ever took such a risk where would we be? Even if you don't ultimately believe it, living your life as if you have 100% control over **everything** that happens, and you'll make a much bigger impact on your circumstances than you may think. Just think about it: being screwed over by a person who has power over you may be something that seemed completely out of your control, but if you live your life as if you *could've* prevented it, then in the future you'll be able to identify the superiors who would do you harm, and find a way to lessen or neutralize their influence over you. Making an effort in that direction, where there was none before can have incredibly positive impacts that you never would've known had you just given up. 
 
 ## Optimism vs. Pessimism and Planning vs. Hope
 

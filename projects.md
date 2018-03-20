@@ -21,7 +21,6 @@ A simple platforming game made with Javascript. Use arrowkeys to move.
 ### Research Manager
 
 ![Research Manager](images/research.png)
-![Participant Example](images/research2.png)
 
 Currently under development! Made with Vue.js, Bootstrap and Firestore. 
 

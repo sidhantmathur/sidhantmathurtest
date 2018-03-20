@@ -16,3 +16,5 @@ categories: creativity
 - Refutation of Peter Theil's specialization
 
 - What I need to do
+
+

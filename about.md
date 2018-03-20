@@ -10,8 +10,6 @@ I enjoy playing basketball, reading on various topics, and learning.
 
 Some of my favourite books include: 
 - Mortal Questions - Thomas Nagel
-- Against Empathy - Paul Bloom
 - Catch-22 - Joseph Heller
 - Zero to One - Peter Theil
 - The Road - Cormac McCarthy
-- Englightenment Now! - Steven Pinker

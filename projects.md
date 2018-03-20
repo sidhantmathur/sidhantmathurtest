@@ -18,6 +18,13 @@ A fictional start-up website with a randomized clickable button.
 
 A simple platforming game made with Javascript. Use arrowkeys to move. 
 
+### Research Manager
+
+![Research Manager](images/research.png)
+![Participant Example](images/research2.png)
+
+Currently under development! Made with Vue.js, Bootstrap and Firestore. 
+
 ### [Employee Manager](https://vuefs-prod-c49dc.firebaseapp.com/#/)
 
 An employee manager built with Vue.js, Materialize and Firestore. 

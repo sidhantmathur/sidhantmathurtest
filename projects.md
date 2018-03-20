@@ -8,13 +8,9 @@ See all code on my [Github.](https://github.com/sidhantmathur?tab=repositories)
 
 ### [Peruzer](https://sidhantmathur.github.io/Peruzer/)
 
-[![Peruzer Image](images/peruzer.png)](https://sidhantmathur.github.io/Peruzer/)
-
 A fictional start-up website with a randomized clickable button. 
 
 ### [Javascript Platformer](https://sidhantmathur.github.io/Platforming-Game//)
-
-[![Javascript Platformer Image](images/platformer.png)](https://sidhantmathur.github.io/Platforming-Game/)
 
 A simple platforming game made with Javascript. Use arrowkeys to move. 
 

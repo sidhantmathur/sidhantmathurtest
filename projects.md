@@ -4,7 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
-See all code on my [Github.](https://github.com/sidhantmathur?tab=repositories)
+See all my code on [Github](https://github.com/sidhantmathur?tab=repositories) and see some smaller projects on my [old portfolio](https://sidhantmathur.github.io/bootstrapportfolio/).
+
 
 ### [Peruzer](https://sidhantmathur.github.io/Peruzer/)
 

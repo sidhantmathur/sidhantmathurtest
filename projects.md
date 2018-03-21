@@ -18,7 +18,7 @@ A simple platforming game made with Javascript. Use arrowkeys to move.
 
 ![Research Manager](images/research.png)
 
-Currently under development! Made with Vue.js, Bootstrap and Firestore. 
+Not currently hosted. Made with Vue.js, Bootstrap and Firestore. 
 
 ### [Employee Manager](https://vuefs-prod-c49dc.firebaseapp.com/#/)
 

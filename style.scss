@@ -19,13 +19,13 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 20px/1.4 $georgia;
   color: $darkGray;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 700px;
   padding: 0 10px;
   width: 100%;
 }
@@ -45,27 +45,28 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 34px;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 30px;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 26px;
 }
 
 h4 {
-  font-size: 18px;
+  font-size: 22px;
   color: $gray;
 }
 
 p {
   margin: 15px 0;
+  line-height: 1.6;
 }
 
 a {
@@ -73,7 +74,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    opacity: 0.5;
   }
 }
 
@@ -152,11 +153,12 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+  background: $blue;
+  border-bottom: 1px solid #ddd;
 }
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
@@ -192,7 +194,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $white;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -202,8 +204,10 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $white; 
+  opacity: 0.75;
   font-size: 16px;
+  font-family: $helveticaNeue;
 
   @include mobile {
     margin: 3px 0;
@@ -225,14 +229,15 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $white;
+    opacity: 0.9;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $white;
     }
   }
 }
@@ -266,8 +271,8 @@ nav {
   }
 
   .read-more {
-    text-transform: uppercase;
-    font-size: 15px;
+    font-size: 20px;
+    font-family: $helveticaNeue;
   }
 }
 

@@ -25,7 +25,7 @@ The reason that sans-serif fonts have long been recommended for web content is t
 
 ## Line Height
 
-Usually you're fine with setting the line height around 1.5 (MS Word default) or 1.6 (Web recommendation). That's all. Most other heights are far too sparse or way too dense. 
+Usually, you're fine with setting the line height around 1.5 (MS Word default) or 1.6 (Web recommendation). That's all. Most other heights are far too sparse or way too dense. 
 
 ## Characters per Line
 
@@ -39,9 +39,22 @@ For reading, the font size should be no less than 16pt. Medium.com uses 21pt, my
 
 Whatever settings you decided on, you'd probably want to know the ideal ratios between the three elements. Luckily we have the golden ratio to help us out. [Here](https://pearsonified.com/typography/) is a useful calculator to find the ideal ratios of the elements. I found that the golden ratio settings were extremely close to my own, (off by only a couple pixels) and I did a *lot* of trial and error to be satisfied with my typography. Obviously, there are more concerns than typography on a webpage so you don't have to follow the calculator to the pixel, but it's a good reference guide. 
 
+## The Results
+
+![combined texts]({{ site.baseurl }}/images/combined.png)
+
+Open the image in another tab and look at both carefully. You'll see that while the original (left) is consistent and dense, the updated typography (right) is far easier to actually read. When I look at the two side by side, I was amazed that I even put up with the original. The updated typography is begging me to read it while the original was intimidating. 
+
+Unfortunately, perfecting typography alone isn't enough to make reading a delight. 
+
+
 ## Web Design
 
 The greatest typography in the world won't hide ugly, confusing, or distracting elements in your page. People have very short attention spans, and cultivating them is the most important part of any web page. When the user is reading, **leave them alone**. Don't have distracting sidebars or a huge top navbar. Look to Medium for example. The nav goes away while the user is reading. Most reading-focused websites have extremely sparse elements once the user starts reading. The text should be the focus. 
+
+Stick with white backgrounds and black/dark gray text; it's high contrast and easy to read. Colored text is only to be used as highlights or for links: it's fairly difficult to make it look professional looking as body text. Colored backgrounds tend not to work unless they're fairly subtle: you don't want the *background* of the text to be the focus. 
+
+These aren't concrete rules, but if you know enough to deviate from them (hint: you don't); you're probably not getting much out of this post anyway. 
 
 ## Content
 
@@ -49,4 +62,4 @@ Don't be boring.
 
 ## Conclusion
 
-Design is a lot harder than it looks; don't brush it aside with a couple rules you heard once. Great, functional design will keep people engaged, and that is the entire point of blogging or writing. Content is important, but what the content looks like is equally important. Not many people will read a 10pt Times New Roman wall of text, no matter how amazing the information inside is. The internet is a battleground for attention, and if your content doesn't have the best armor, it's getting killed. 
+Design is a lot harder than it looks; don't brush it aside and only pay attention to a couple rules you heard once. Great, functional design will keep people engaged, and that is the entire point of blogging or writing. Content is important, but what the content looks like is equally important. Not many people will read a 10pt Times New Roman wall of text, no matter how amazing the information inside is. If you want people to get your message, don't make it unnecessarily  difficult! The internet is a battleground for attention, and if your content doesn't have the best armor, it's getting killed. 

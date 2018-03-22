@@ -5,9 +5,9 @@ date:   2018-03-08 20:00:00 -0600
 categories: design
 ---
 
-Building a beautiful reading experience is a lot harder than it looks. On the surface, you've heard a couple of rules and thought, "yeah if I follow these rules, I'll have 90% of what a great blogging platform has." Reality is a little bit more complicated: 
+Building a beautiful reading experience is a lot harder than it looks. On the surface, you've heard a couple of rules and thought, "yeah if I follow these rules, I'll have 90% of what a great blogging platform has." Reality is a little bit more complicated:
 
-I had a couple of longer blog posts up, and for some reason, they weren't as easily readable as the average [Medium](https://medium.com/) article. Why aren't they as legible? The font is Sans-Serif, it's a fair size, and the lines aren't too long. What exactly is wrong? Plenty. 
+I had a couple of longer blog posts up, and for some reason, they weren't as legible as the average [Medium](https://medium.com/) article. Why aren't they as legible? Why do people say they're sort of hard to read? The font is sans-serif, it's a fair size, and the lines aren't too long. What exactly is wrong? Plenty. 
 
 ## Serif vs. Sans-Serif
 
@@ -25,15 +25,19 @@ The reason that sans-serif fonts have long been recommended for web content is t
 
 ## Line Height
 
-Set the line height around 1.5 (MS Word default) or 1.6 (Web recommendation). That's all. Most others are way too sparse or way too dense. 
+Usually you're fine with setting the line height around 1.5 (MS Word default) or 1.6 (Web recommendation). That's all. Most other heights are far too sparse or way too dense. 
 
-## Line Length
+## Characters per Line
 
-Make sure the maximum number of characters per line is 85. Use [a tool](https://www.lettercount.com/) to count the characters (don't count them yourself like I did). The ideal length is normally considered 45-75 characters for print, and up to  85 characters for web content.  
+Make sure the maximum number of characters per line is 85. Use [a tool](https://www.lettercount.com/) to count the characters (don't count them yourself like I did). The ideal length is normally considered 45-75 characters for print, and up to 85 characters for web content. 
 
 ## Font Size
 
 For reading, the font size should be no less than 16pt. Medium.com uses 21pt, my website uses 20pt, and the New York Times uses 16pt for reference. 
+
+## The Golden Ratio
+
+Whatever settings you decided on, you'd probably want to know the ideal ratios between the three elements. Luckily we have the golden ratio to help us out. [Here](https://pearsonified.com/typography/) is a useful calculator to find the ideal ratios of the elements. I found that the golden ratio settings were extremely close to my own, (off by only a couple pixels) and I did a *lot* of trial and error to be satisfied with my typography. Obviously, there are more concerns than typography on a webpage so you don't have to follow the calculator to the pixel, but it's a good reference guide. 
 
 ## Web Design
 
@@ -45,4 +49,4 @@ Don't be boring.
 
 ## Conclusion
 
-Design is a lot harder than it looks; don't brush it aside with a couple rules you heard once. Great, functional design will keep people engaged, and that is the entire point of blogging or writing. Content is important, but what the content looks like is equally important. Not many people will read a 12pt Times New Roman article, no matter how amazing the information inside is. 
+Design is a lot harder than it looks; don't brush it aside with a couple rules you heard once. Great, functional design will keep people engaged, and that is the entire point of blogging or writing. Content is important, but what the content looks like is equally important. Not many people will read a 10pt Times New Roman wall of text, no matter how amazing the information inside is. The internet is a battleground for attention, and if your content doesn't have the best armor, it's getting killed. 

@@ -3,6 +3,7 @@ layout: post
 title:  "Creativity"
 date:   2018-03-08 20:00:00 -0600
 categories: creativity
+comments: true
 ---
 
 - Creativity Class

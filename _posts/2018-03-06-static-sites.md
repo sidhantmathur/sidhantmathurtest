@@ -3,6 +3,7 @@ layout: post
 title:  "Static Site Generators"
 date:   2018-03-06 20:00:00 -0600
 categories: web dev
+comments: true
 ---
 
 ***Static Website Generators*** are an increasingly popular tool for web development. Many developers including myself find static site generators to be incredibly convenient and powerful tools; this very blog was made with a static site generator. Why exactly is this a trend? Let's get into it. 

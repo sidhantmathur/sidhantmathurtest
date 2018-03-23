@@ -3,6 +3,7 @@ layout: post
 title:  "My Programming Journey"
 date:   2018-02-15 21:11:00 -0600
 categories: personal
+comments: true
 ---
 
 I am a relatively new programmer, only having begun in December 2017, and I have to say it feels like I have entered into a completely different world. 

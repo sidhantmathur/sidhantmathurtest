@@ -3,6 +3,7 @@ layout: post
 title:  "Typography for Blogs"
 date:   2018-03-08 20:00:00 -0600
 categories: design
+comments: true
 ---
 
 Building a beautiful reading experience is a lot harder than it looks. On the surface, you've heard a couple of rules and thought, "yeah if I follow these rules, I'll have 90% of what a great blogging platform has." Reality is a little bit more complicated:

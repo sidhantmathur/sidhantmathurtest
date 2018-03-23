@@ -3,6 +3,7 @@ layout: post
 title:  "Brian Caplan - Agaisnt Education"
 date:   2018-02-15 20:37:00 -0600
 categories: podcasts
+comments: true
 ---
 
 - Rationally Speaking

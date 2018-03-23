@@ -148,7 +148,10 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
-  background: $blue;
+  background: $blue;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, $blue, $darkBlue);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, $blue, $darkBlue); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
   border-bottom: 1px solid #ddd;
 }
 
@@ -275,7 +278,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background: $lightGray;
 }
 
 footer {

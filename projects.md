@@ -8,7 +8,7 @@ See all my code on [Github](https://github.com/sidhantmathur?tab=repositories) a
 
 ### [Research Manager](https://research-participant-tracker.firebaseapp.com/#/)
 
-Research Participant manager built ade with Vue.js, Bootstrap and Firestore. 
+Research Participant manager built with Vue.js, Bootstrap and Firestore. Feel free to add a participant. 
 
 ### [Payment Applet](https://rocky-caverns-94159.herokuapp.com/)
 
@@ -24,11 +24,11 @@ A fictional start-up website with a randomized clickable button.
 
 ### [Employee Manager](https://vuefs-prod-c49dc.firebaseapp.com/#/)
 
-An employee manager built with Vue.js, Materialize and Firestore. 
+An employee manager built with Vue.js, Materialize and Firestore. Feel free to add an employee. 
 
 ### [Javascript Quiz](https://sidhantmathur.github.io/JS-Quiz/)
 
-A quiz applet made in Javascript. Can be adapted to other question banks for classifying quiz takers. 
+A quiz applet made in Javascript. Can be adapted to other question banks for classifying quiz takers in catagories. 
 
 ### [Array Functions](https://sidhantmathur.github.io/Array-Functions/)
 

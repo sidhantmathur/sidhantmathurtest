@@ -6,6 +6,7 @@ categories: creativity
 comments: true
 ---
 
+Creativity needs a home. Creativity needs to be shared. 
 - Creativity Class
 - Multidisicplinary
 - Creativity needs to be shared

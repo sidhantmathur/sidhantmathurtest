@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Static Site Generators – Sidhant Mathur – Writings and Projects by Sidhant Mathur</title>
+
+        <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="Static Website Generators are an increasingly popular tool for web development. Many developers including myself find static site generators to be incredibly convenient and powerful tools; this very blog was made with a static site generator. Why exactly is this a trend? Let’s get into it.
+
+" />
+    <meta property="og:description" content="Static Website Generators are an increasingly popular tool for web development. Many developers including myself find static site generators to be incredibly convenient and powerful tools; this very blog was made with a static site generator. Why exactly is this a trend? Let’s get into it.
+
+" />
+    
+    <meta name="author" content="Sidhant Mathur" />
+
+    
+    <meta property="og:title" content="Static Site Generators" />
+    <meta property="twitter:title" content="Static Site Generators" />
+    
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Sidhant Mathur - Writings and Projects by Sidhant Mathur" href="/feed.xml" />
+    <link rel="shortcut icon" href="/images/favicon.png" type="image/png"> 
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  </head>
+
+  <body>
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="/" class="site-avatar"><img src="https://avatars0.githubusercontent.com/u/34816812?s=400&u=1447c7fd77fbdac3cb53889bf013e3f40c982b66&v=4" /></a>
+
+          <div class="site-info">
+            <h1 class="site-name"><a href="/">Sidhant Mathur</a></h1>
+            <p class="site-description">Writings and Projects by Sidhant Mathur</p>
+          </div>
+
+          <nav>
+            <a href="/">Blog</a>
+            <a href="/projects">Projects</a>
+            <a href="/about">About</a>
+          </nav>
+        </header>
+      </div>
+    </div>
+
+    <div id="main" role="main" class="container">
+      <article class="post">
+  <h1>Static Site Generators</h1>
+
+  <div class="entry">
+    <p><strong><em>Static Website Generators</em></strong> are an increasingly popular tool for web development. Many developers including myself find static site generators to be incredibly convenient and powerful tools; this very blog was made with a static site generator. Why exactly is this a trend? Let’s get into it.</p>
+
+<h2 id="dynamic-vs-static-websites">Dynamic vs. Static Websites</h2>
+
+<p>Most websites with interactive or user added content (like comments or posts) have a server (with an appropriate OS), database, backend routing, plugins and more. Furthermore when there is a CMS (Content Management System: Wordpress, Drupal) involved (as it typically is for clients) then there’s CMS specific themes, plugins, and the CMS application itself. Now <em>that</em> is a ton of stuff.</p>
+
+<p>Statically generated websites have none of that; they’re just HTML, CSS, and JavaScript files generated and hosted on a server. This confers significant advantages, while not having as much of a disadvantage in features as you may think.</p>
+
+<h2 id="ease-of-development">Ease of Development</h2>
+
+<p>Static site generators are very easy to create and deploy. All I did to create this blog was fork a repository called <a href="https://github.com/barryclark/jekyll-now">Jekyll Now</a> and edit the configuration file. Github automatically generates and deploys your Jekyll website. From that point, all you have to do is add blog posts in markdown. Obviously, if you want a custom theme, it will take some work, but getting the website itself up and running is no issue at all.</p>
+
+<p>This is perfect if you, like me, don’t want to spend too much time on the design and coding of a blog or website; rather focusing on the content while working on other projects.</p>
+
+<h2 id="lightweight">Lightweight</h2>
+
+<p>Statically generated websites are much faster than dynamic websites. Heavy duty backends that are present on most websites really slow everything down and add a lot of bloat to the server. Static websites eliminate almost all of that.</p>
+
+<p>This way you can have a website that:</p>
+
+<ol>
+  <li>Loads faster</li>
+  <li>Takes less server space</li>
+</ol>
+
+<p>Which in turn allows you to:</p>
+
+<ol>
+  <li>Keep users engaged</li>
+  <li>Save money on servers</li>
+  <li>Be better prepared for traffic spikes</li>
+</ol>
+
+<p>Speed is a critical measure for websites; <a href="https://www.doubleclickbygoogle.com/articles/mobile-speed-matters/">53% of mobile users abandon a website that takes longer than 3 seconds to load.</a> Too many businesses, big and small, have bloated web pages that take far too long to load causing users to become bored and frustrated. If you want users to pay attention, you can’t be wasting their time loading.</p>
+
+<p><a href="https://www.doubleclickbygoogle.com/articles/mobile-speed-adds-up/">You can use this calculator to see what effect your slower page speeds are having.</a></p>
+
+<p><img src="https://images.pexels.com/photos/17840/pexels-photo.jpg?w=1260&amp;h=750&amp;dpr=2&amp;auto=compress&amp;cs=tinysrgb" alt="Server Strain" /></p>
+
+<h3 id="why-are-static-websites-faster">Why are Static Websites Faster?</h3>
+
+<p>Static websites improve speed and alleviate servers because they are so incredibly small causing the strain per “serve” to a user to be reduced. Also, static websites have fewer files, in general, causing it to have a faster load as well: 5000 files together taking up 1 GB of space take more time to download than one large file that takes up 1 GB of space. The reason for this is because the server and your computer have to make a sort of “handshake” for every individual file slowing down the entire process. Backend frameworks tend to have a <strong><em>lot</em></strong> of files, especially in heavyweight or slower frameworks like Ruby on Rails.</p>
+
+<p>A <strong>simplified</strong> way to think about this: the reduced space in conjunction with fewer files allows the server to spend a ton fewer resources: less CPU strain because of less file processing, and less RAM usage because the file size for the concurrently running websites is smaller. For example, using a static website generator means that 1 GB of RAM can run maybe 500 of your websites vs 50 with a typical dynamic site and the CPU isn’t straining to make a billion handshakes because all it has to do is load 5-10 files instead of 50-100. So you can have 10 times the users with the same server space, and those users will receive their content much faster because the CPU on the server isn’t strained at all.</p>
+
+<h2 id="security">Security</h2>
+
+<p>CMSs are both finicky and vulnerable. Avoiding them will prevent common exploits from affecting your website. It’s been estimated that <a href="https://www.wpwhitesecurity.com/wordpress-security-news-updates/statistics-70-percent-wordpress-installations-vulnerable/">almost 70% of Wordpress websites are vulnerable to very common exploits and hacks</a>. This isn’t a thing that is easily mitigated either: <a href="https://www.theregister.co.uk/2016/04/07/panama_papers_unpatched_wordpress_drupal/">even the most powerful people in the world are vulnerable to this.</a> This is the nature of having a visible backend or CMS; people can easily identify and exploit it.  With a static website, you get around this because you often don’t even <strong><em>have</em></strong> a backend to exploit. Even if you do have a very simple backend, hackers won’t be able to know which backend framework or language you’re using which makes the entire process much more difficult for them.</p>
+
+<p><img src="https://images.pexels.com/photos/414579/pexels-photo-414579.jpeg?w=1260&amp;h=750&amp;dpr=2&amp;auto=compress&amp;cs=tinysrgb" alt="Moving Parts" /></p>
+
+<h2 id="reliability">Reliability</h2>
+
+<p>One of the most fundamental ideas when it comes to engineering a physical product is that less moving parts result in greater reliability. This is also true for websites. Even if your website works perfectly now, over time something will go wrong. This happens whenever there is a server and complex backend involved. There is sort of this code “rot” that happens for a myriad of unidentifiable reasons and your perfectly running website will go down if not maintained. Having a statically generated website means that there are almost no “moving parts”, and the website can stay online for years without much maintenance.</p>
+
+<h2 id="features-parity">Features Parity</h2>
+
+<p>One of the biggest disadvantages of static websites is their lack of features and interactivity. Dynamic websites have no problem making users interact and post things on the website. This isn’t as big of a problem as you may think though.</p>
+
+<p>All the major static site generators are slowly adding many of the most common features of fully fledged websites. There is a <a href="https://staticman.net/">plugin that allows for comments to be posted</a>, (or you could use a <a href="https://disqus.com/">service like Disqus</a>). When it comes to forms, <a href="https://www.netlify.com/docs/form-handling/">Netlify has a form handler</a>. Can’t search on a static website? Oh wait <a href="https://www.algolia.com/">you can</a> Do you want your clients to have a nice CMS interface? There are ways of hooking up the generator with a CMS and generating a new post upon clicking submit in the CMS. You can even <a href="https://github.com/masukomi/JekyllMail">email in posts</a>. As you can see, if you want a feature in a static website, there is probably already someone working on it and it will just get better and better over time.</p>
+
+<h2 id="version-control-github">Version Control: GitHub</h2>
+
+<p>I use Jekyll to run this blog, and I chose it specifically for its integration with Github pages. Absolutely free server and domain? Automatic generation upon push? Github as version control? Sign me up.</p>
+
+<p>The advantage of version control is that you can take a look at the edits you’ve made to your blog, from the grammar edits to the spellings, and even better, if someone else finds an issue, they can make a request to fix it in GitHub. It’s like your readers are working together with you on an open source project to make the best blog possible.</p>
+
+<p>More than that, there are backups to all changes, so you can easily revert to an earlier stage if something goes wrong. Constantly backing up databases is a much clumsier alternative.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>It’s clear from what I’ve written, I like static site generators. In descending order, I like:</p>
+
+<ol>
+  <li>Cheap and Lightweight on Servers</li>
+  <li>Secure</li>
+  <li>Fast</li>
+  <li>Convenient to Use</li>
+  <li>Version Control</li>
+  <li>Near Feature Parity</li>
+</ol>
+
+<p>I think that most businesses can move towards a static website with no real ill effects. Most major features can be outsourced to another website or plugin that handles it. Statically generated websites are good enough for heavy duty things like <a href="http://kylerush.net/blog/meet-the-obama-campaigns-250-million-fundraising-platform/">the Obama campaign</a>, <a href="https://services.github.com/">Github Services</a>, <a href="http://weblog.rubyonrails.org/">the Ruby on Rails blog</a>, <a href="https://developmentseed.org/blog/new-healthcare-gov-is-open-and-cms-free/">the new Healthcare.gov</a>, (<a href="http://planetjekyll.github.io/showcase/">and more!</a>) and they’re convenient enough for small blogs like this one to use.</p>
+
+<p>Static website generators are the future, and we should be happy about it; who doesn’t want a faster and lighter-weight web experience?</p>
+
+  </div>
+
+  <div class="date">
+    Written on March  6, 2018
+  </div>
+  <br>
+  
+<div class="comments">
+	<div id="disqus_thread"></div>
+	<script type="text/javascript">
+
+	    var disqus_shortname = 'sidhantmathur';
+
+	    (function() {
+	        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+	        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+	        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	    })();
+
+	</script>
+	<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+
+</article>
+
+    </div>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          
+<a href="mailto:sidhant185@gmail.com"><i class="svg-icon email"></i></a>
+
+
+<a href="https://github.com/sidhantmathur"><i class="svg-icon github"></i></a>
+
+<a href="https://www.linkedin.com/in/sidhant-mathur-67a08b12a"><i class="svg-icon linkedin"></i></a>
+
+<a href="/feed.xml"><i class="svg-icon rss"></i></a>
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+	<!-- Google Analytics -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-112957075-1', 'auto');
+		ga('send', 'pageview', {
+		  'page': '/static-sites/',
+		  'title': 'Static Site Generators'
+		});
+	</script>
+	<!-- End Google Analytics -->
+
+
+  </body>
+</html>

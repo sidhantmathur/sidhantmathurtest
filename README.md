@@ -1,2 +1,2 @@
-# sidhantmathur.github.io
-Sidhant's Personal Blog &amp; Website
+# Sidhant's Blog & Portfolio
+[Sidhant Mathur's Blog](sidhantmathur.github.io)

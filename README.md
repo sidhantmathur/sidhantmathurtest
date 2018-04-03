@@ -1,2 +1,2 @@
-# sidhant-blog
-[Sidhant Mathur's Blog](sidhantmathur.github.io/sidhant-blog)
+# Sidhant's Blog & Portfolio
+[Sidhant Mathur's Blog](sidhantmathur.github.io)
